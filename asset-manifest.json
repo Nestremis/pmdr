@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pomodoro/static/css/main.b30f4438.css",
+    "main.css": "/pomodoro/static/css/main.c315a576.css",
     "main.js": "/pomodoro/static/js/main.0ec8fb9b.js",
     "static/media/clong-1.mp3": "/pomodoro/static/media/clong-1.fc1bd67ae7d677e10a89.mp3",
     "static/media/bell-ring.mp3": "/pomodoro/static/media/bell-ring.57d5e0040aae16835bc7.mp3",
     "static/media/glass-clink-1.mp3": "/pomodoro/static/media/glass-clink-1.9caa917765c6a4a55d53.mp3",
     "index.html": "/pomodoro/index.html",
-    "main.b30f4438.css.map": "/pomodoro/static/css/main.b30f4438.css.map",
+    "main.c315a576.css.map": "/pomodoro/static/css/main.c315a576.css.map",
     "main.0ec8fb9b.js.map": "/pomodoro/static/js/main.0ec8fb9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b30f4438.css",
+    "static/css/main.c315a576.css",
     "static/js/main.0ec8fb9b.js"
   ]
 }
