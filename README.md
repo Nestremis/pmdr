@@ -9,3 +9,4 @@ The end of the session and the end of the break is indicated by a SOUND, allowin
 Published on https://nestremis.github.io/pomodoro/
 
 ![Screen Shot 2024-04-08 at 13 47 50 PM](https://github.com/Nestremis/pomodoro/assets/76690775/482e878a-35a6-419f-84c7-50f1c5e4ed28)
+![Screen Shot 2024-04-08 at 13 48 59 PM](https://github.com/Nestremis/pomodoro/assets/76690775/2f42bfe4-08c4-4a34-8ebc-38722f54eeb3)
